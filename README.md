@@ -1,5 +1,8 @@
 # Booking.com Bot
 
+Idea for this bot is from [jimdevops](https://github.com/jimdevops19) booking.com scraper.
+
+
 Get you travel deals using this bot.
 The tool applies different filters to as you would intend
 It returns the results in a csv file
