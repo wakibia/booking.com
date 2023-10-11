@@ -36,7 +36,7 @@ Booking.Com arguments:
 ### Note
 
 You can use only one of the arguments in the following groups
-The website is subject to regular changed - It may fail. If it fails start a new issue. I will respond soonest
+The website is subject to regular changes - It may fail. If it fails start a new issue. I will respond soonest
 
 
 ## Example
