@@ -109,7 +109,7 @@ class Booking(webdriver.Chrome):
     def report_results(self):
         report = BookingReport(driver=self)
         hotl_rslt = report.pull_deal_box_attributes()
-        print(hotl_rslt)
+        return hotl_rslt
 
 
     def quit(self):
